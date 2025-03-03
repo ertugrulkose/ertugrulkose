@@ -54,4 +54,4 @@
 <a href="https://instagram.com/ertugrulkosee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ertugrulkosee" height="30" width="40" /></a>
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ertugrulkose&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ertugrulkose&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ertugrulkose&layout=compact)
